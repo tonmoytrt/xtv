@@ -1,0 +1,10 @@
+.animatedText {
+    color: white;
+    text-align: center;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-size: 48px;
+    display: inline-block;
+    padding: 0;
+    border-right: 1px solid #414141;
+  }
+  
