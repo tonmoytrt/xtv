@@ -1,8 +1,8 @@
 // Define an array of strings to be displayed and erased
 const textArray = [
-    "Welcome!",
-    "𝕏 is set to take on YouTube with upcoming TV App",
-    "Enjoy"
+    "Welcome",
+    "𝕏 is set to take on YouTube with upcoming TV App"  
+    
     // Add more strings as needed
   ];
   

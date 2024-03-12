@@ -2540,6 +2540,7 @@ html {
   .nav-item-text {
     opacity: 1;
     text-decoration: none;
+    font-family: Italiana;
   }
   
   .footer-link {
